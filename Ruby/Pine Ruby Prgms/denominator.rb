@@ -1,0 +1,1 @@
+puts denominator(25)

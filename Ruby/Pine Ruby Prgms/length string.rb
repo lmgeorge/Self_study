@@ -1,0 +1,7 @@
+puts ''
+puts 'length'
+puts ''
+puts 'What is your full name?'
+name = 'Lauren'
+puts 'Did you know there are ' + name.length.to_s + ' characters'
+puts 'in your name, ' + name + '?'
